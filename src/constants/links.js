@@ -28,4 +28,4 @@ const Links = ({ styleClass, children }) => {
   )
 }
 
-export default Links
+export default Links;

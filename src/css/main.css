@@ -496,7 +496,7 @@ Single Pages
   flex-direction: column;
 }
 .form-control {
-  padding: 0.5rem;
+  padding: .5rem;
   border: 0.5px solid var(--clr-grey-9);
   border-right: transparent;
   font-size: 1rem;
